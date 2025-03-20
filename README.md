@@ -1,6 +1,9 @@
 # Security Scanner
 By Fabrilio
 
+##
+DEMO TEST : https://bvspsite.github.io/ScannerVirusBETA/
+
 ## Deskripsi
 Security Scanner adalah aplikasi berbasis web yang dirancang untuk membantu pengguna dalam mendeteksi potensi ancaman keamanan pada file dan URL. Aplikasi ini memberikan perlindungan dengan melakukan analisis terhadap file yang diunggah dan URL yang dimasukkan untuk mendeteksi keberadaan malware, virus, atau ancaman keamanan lainnya.
 
